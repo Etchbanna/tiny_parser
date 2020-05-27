@@ -1,0 +1,29 @@
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\bin\Debug\Scanner.exe.config
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\bin\Debug\Scanner.exe
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\bin\Debug\Scanner.pdb
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\obj\Debug\Scanner.csprojResolveAssemblyReference.cache
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\obj\Debug\Scanner.Form1.resources
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\obj\Debug\Scanner.Properties.Resources.resources
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\obj\Debug\Scanner.csproj.GenerateResource.Cache
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\obj\Debug\Scanner.exe
+c:\users\dream\documents\visual studio 2012\Projects\Scanner\Scanner\obj\Debug\Scanner.pdb
+C:\Users\Bonna\Documents\Visual Studio 2017\Tiny-Language-Scanner-master\Scanner\Scanner\bin\Debug\Scanner.exe.config
+C:\Users\Bonna\Documents\Visual Studio 2017\Tiny-Language-Scanner-master\Scanner\Scanner\bin\Debug\Scanner.exe
+C:\Users\Bonna\Documents\Visual Studio 2017\Tiny-Language-Scanner-master\Scanner\Scanner\bin\Debug\Scanner.pdb
+C:\Users\Bonna\Documents\Visual Studio 2017\Tiny-Language-Scanner-master\Scanner\Scanner\obj\Debug\Scanner.csprojAssemblyReference.cache
+C:\Users\Bonna\Documents\Visual Studio 2017\Tiny-Language-Scanner-master\Scanner\Scanner\obj\Debug\Scanner.Properties.Resources.resources
+C:\Users\Bonna\Documents\Visual Studio 2017\Tiny-Language-Scanner-master\Scanner\Scanner\obj\Debug\Scanner.csproj.GenerateResource.cache
+C:\Users\Bonna\Documents\Visual Studio 2017\Tiny-Language-Scanner-master\Scanner\Scanner\obj\Debug\Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Bonna\Documents\Visual Studio 2017\Tiny-Language-Scanner-master\Scanner\Scanner\obj\Debug\Scanner.exe
+C:\Users\Bonna\Documents\Visual Studio 2017\Tiny-Language-Scanner-master\Scanner\Scanner\obj\Debug\Scanner.pdb
+C:\Users\Bonna\Documents\Visual Studio 2017\Tiny-Language-Scanner-master\Scanner\Scanner\obj\Debug\Scanner.ScannerForm.resources
+C:\Users\Bonna\Downloads\Scanner-20200525T125819Z-001\Scanner\bin\Debug\Scanner.exe.config
+C:\Users\Bonna\Downloads\Scanner-20200525T125819Z-001\Scanner\bin\Debug\Scanner.exe
+C:\Users\Bonna\Downloads\Scanner-20200525T125819Z-001\Scanner\bin\Debug\Scanner.pdb
+C:\Users\Bonna\Downloads\Scanner-20200525T125819Z-001\Scanner\obj\Debug\Scanner.csprojAssemblyReference.cache
+C:\Users\Bonna\Downloads\Scanner-20200525T125819Z-001\Scanner\obj\Debug\Scanner.ScannerForm.resources
+C:\Users\Bonna\Downloads\Scanner-20200525T125819Z-001\Scanner\obj\Debug\Scanner.Properties.Resources.resources
+C:\Users\Bonna\Downloads\Scanner-20200525T125819Z-001\Scanner\obj\Debug\Scanner.csproj.GenerateResource.cache
+C:\Users\Bonna\Downloads\Scanner-20200525T125819Z-001\Scanner\obj\Debug\Scanner.csproj.CoreCompileInputs.cache
+C:\Users\Bonna\Downloads\Scanner-20200525T125819Z-001\Scanner\obj\Debug\Scanner.exe
+C:\Users\Bonna\Downloads\Scanner-20200525T125819Z-001\Scanner\obj\Debug\Scanner.pdb
